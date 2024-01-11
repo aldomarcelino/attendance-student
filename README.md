@@ -1,2 +1,2 @@
-# attendance-student
+# student-attendance
 Using Face Recognition
